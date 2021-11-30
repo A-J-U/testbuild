@@ -15,7 +15,7 @@ import Testimonials from "./components/Testimonials";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-red-200 body-font">
+    <main className="text-gray-600 bg-red-200 body-font">
       <Navbar />
       <About />
       <Projects />
